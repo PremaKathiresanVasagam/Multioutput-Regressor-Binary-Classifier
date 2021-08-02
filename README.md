@@ -22,3 +22,11 @@
 9. Testing Classifier on test.csv
 10. Save the predictions as a csv file
 11. Save model as pickle file
+
+## Metrics
+- Regressor:
+r- squared - 88.9%
+- Classifier:
+precision -99.7%
+recall - 97.9%
+
