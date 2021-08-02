@@ -1,7 +1,7 @@
 # Multioutput-Regressor and Binary-Classifier
 
-### **Task 1:**Multi-output regression (Prediction of four columns - col_00, col_01, col_02, col_03)
-### **Task 2:**Binary classification using Multi-output regression's output as input features inaddition to already existing features. (status 1, status 3)
+###**Task 1:**Multi-output regression (Prediction of four columns - col_00, col_01, col_02, col_03)
+###**Task 2:**Binary classification using Multi-output regression's output as input features inaddition to already existing features. (status 1, status 3)
 
 #### Steps:
 1. Importing packages
